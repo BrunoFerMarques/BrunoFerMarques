@@ -12,7 +12,7 @@
 
 ## 🚀 Tecnologias que utilizo
 
-<div style="display: inline_block"><br/>
+<div style="display: flex"><br/>
 
 <img align="center" alt="HTML" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -46,9 +46,9 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
 ---
 
 ## 📚 Atualmente
-
 🎓 Graduando na UNIFESP  
-
+<img align="center" alt="ADVPL" height="40" width="50"
+src="https://seeklogo.com/images/U/unifesp-logo-2ABA60390A-seeklogo.com.png" />
 📖 Estudando:
 - Padrões de Projeto
 - Estruturas de Dados
@@ -57,17 +57,7 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=BrunoFerMarques&show_icons=true&theme=tokyonight" />
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFerMarques&layout=compact&theme=tokyonight" />
-
-</div>
 
 ---
 📫 Sempre buscando mais e evoluir como desenvolvedor 🚀
