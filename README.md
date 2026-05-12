@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá 👋, eu sou Bruno Marques</h1>
+<h1 align="center">Olá 👋</h1>
 
 <p align="center">
   💻 Desenvolvedor
