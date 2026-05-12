@@ -29,7 +29,6 @@
 ## 🏢 Experiência
 
 🔹 C/C++  
-🔹 Desenvolvimento Web com foco em aplicações modernas  
 🔹 Desenvolvimento ERP utilizando ADVPL/TLPP no ecossistema TOTVS  
 🔹 Experiência com arquitetura orientada a objetos e padrões de projeto  
 🔹 Projetos utilizando React, Angular e TypeScript  
