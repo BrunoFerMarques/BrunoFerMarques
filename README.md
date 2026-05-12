@@ -1,3 +1,4 @@
+
 <h1 align="center">Olá 👋, eu sou Bruno Marques</h1>
 
 <p align="center">
@@ -18,28 +19,33 @@
 <img alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-<img alt="ADVPL" height="40" width="50" src="[https://cdn-icons-png.flaticon.com/512/5968/5968292.png](https://tse3.mm.bing.net/th/id/OIP.KCNXfe-amXPLJN4Hh56HbAHaHa?r=0&pid=ImgDet&w=174&h=174&c=7&dpr=1,6&o=7&rm=3)"/>
+<img alt="ADVPL" height="40" width="50" src="https://images.icon-icons.com/2107/PNG/512/file_type_advpl_icon_130762.png"/>
+<img alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 </div>
-
-
-
-
 
 ---
 
 ## 🏢 Experiência
-🔹 C/C++
+
+🔹 C/C++  
 🔹 Desenvolvimento Web com foco em aplicações modernas  
 🔹 Desenvolvimento ERP utilizando ADVPL/TLPP no ecossistema TOTVS  
 🔹 Experiência com arquitetura orientada a objetos e padrões de projeto  
 🔹 Projetos utilizando React, Angular e TypeScript  
-🔹 React Native 
+🔹 React Native  
+
 ---
 
 ## 📚 Atualmente
+
 🎓 Graduando na UNIFESP  
-<img align="center" alt="ADVPL" height="40" width="50"
-src="https://seeklogo.com/images/U/unifesp-logo-2ABA60390A-seeklogo.com.png" />
+
+<p align="left">
+<img alt="UNIFESP" height="40" width="40"
+src="https://seeklogo.com/images/U/unifesp-logo-2ABA60390A-seeklogo.com.png"/>
+</p>
+
 📖 Estudando:
 - Padrões de Projeto
 - Estruturas de Dados
@@ -48,8 +54,5 @@ src="https://seeklogo.com/images/U/unifesp-logo-2ABA60390A-seeklogo.com.png" />
 
 ---
 
+📫 Sempre buscando aprender mais e evoluir como desenvolvedor 🚀
 
-
----
-📫 Sempre buscando mais e evoluir como desenvolvedor 🚀
-```
