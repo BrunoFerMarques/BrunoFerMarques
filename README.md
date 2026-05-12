@@ -13,7 +13,7 @@
 ## 🚀 Tecnologias que utilizo
 
 
-<div align="center">
+<div>
 
 <img alt="HTML" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -34,7 +34,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-orig
 src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
 
 </div>
-```
+
 
 
 ---
