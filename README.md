@@ -42,7 +42,7 @@ src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
 🔹 Desenvolvimento ERP utilizando ADVPL/TLPP no ecossistema TOTVS  
 🔹 Experiência com arquitetura orientada a objetos e padrões de projeto  
 🔹 Projetos utilizando React, Angular e TypeScript  
-
+🔹 React Native 
 ---
 
 ## 📚 Atualmente
