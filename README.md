@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Tecnologias que utilizo atualmente
 
 <div align="center">
 <img alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -28,7 +28,7 @@
 ---
 
 ## 🏢 Experiência
-
+🔹 C/C++
 🔹 Desenvolvimento Web com foco em aplicações modernas  
 🔹 Desenvolvimento ERP utilizando ADVPL/TLPP no ecossistema TOTVS  
 🔹 Experiência com arquitetura orientada a objetos e padrões de projeto  
