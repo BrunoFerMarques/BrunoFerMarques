@@ -50,5 +50,5 @@ src="https://seeklogo.com/images/U/unifesp-logo-2ABA60390A-seeklogo.com.png"/>
 - Engenharia de Software
 ---
 
-📫 Sempre buscando aprender mais e evoluir como desenvolvedor 🚀
+📫 Audentes Forturna Iuvat 🚀
 
