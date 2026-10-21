@@ -16,9 +16,9 @@
 <img alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+<img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img alt="TLPP" title="TLPP (TOTVS)" height="40" width="50" src="https://cdn.simpleicons.org/totvs/363636/ffffff"/>
 <img alt="ADVPL" height="40" width="50" src="https://images.icon-icons.com/2107/PNG/512/file_type_advpl_icon_130762.png"/>
-<img alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 </div>
 
 ---
@@ -51,4 +51,3 @@ src="https://seeklogo.com/images/U/unifesp-logo-2ABA60390A-seeklogo.com.png"/>
 ---
 
 📫 Audentes Forturna Iuvat 🚀
-
