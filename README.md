@@ -1,6 +1,3 @@
-
-<h1 align="center">Olá 👋</h1>
-
 <p align="center">
   💻 Desenvolvedor
 </p>
