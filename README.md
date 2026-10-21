@@ -1,9 +1,9 @@
-<p align="center">
-  💻 Desenvolvedor
-</p>
+<h1 align="center">
+  💻 Analista TOTVS Protheus
+</h1>
 
 <p align="center">
-  Atualmente trabalhando e estudando desenvolvimento web e atuando com ERP TOTVS Protheus
+  Atualmente trabalhando e estudando com ERP TOTVS Protheus
 </p>
 
 ---
