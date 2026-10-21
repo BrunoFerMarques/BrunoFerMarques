@@ -47,7 +47,7 @@ src="https://seeklogo.com/images/U/unifesp-logo-2ABA60390A-seeklogo.com.png"/>
 - Estruturas de Dados
 - Algoritmos
 - Arquitetura de Software
-
+- Engenharia de Software
 ---
 
 📫 Sempre buscando aprender mais e evoluir como desenvolvedor 🚀
